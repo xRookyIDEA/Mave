@@ -1,0 +1,7 @@
+name: BlockReplace
+version: '${project.version}'
+main: es.xrooky.block
+api-version: 1.17
+authors: [ xRooky ]
+description: Plugin basic by xrooky
+website: xrooky.site
